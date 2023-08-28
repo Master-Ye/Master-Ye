@@ -2,7 +2,7 @@
 ### 🗒 Blog
 
  [Master-Ye](https://www.masterye.xyz/) ( Both tech & life ）
-### ✨ About Me
+### 👨‍🎓 About Me
 
 - CS Student
 - Learning

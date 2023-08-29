@@ -6,8 +6,8 @@
 
 - CS Student
 - Learning
-- A man who is still climbing
-- Understanding the world
+- A Man Who Is Still Climbing
+- Understanding The World
 ### 💡 Languages And Tools
 
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)

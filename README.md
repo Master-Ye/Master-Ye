@@ -1,7 +1,7 @@
 ### Hi! Nice to see you!  👋
 ### 🗒 Blog
 
- [Master-Ye](https://www.masterye.xyz/) ( Both tech & life ）
+ [Master-Ye](https://blog.master-ye.top/) ( Both tech & life ）
 ### 👨‍🎓 About Me
 
 - CS Student

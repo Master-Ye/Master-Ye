@@ -5,8 +5,9 @@
 ### 👨‍🎓 About Me
 
 - CS Student
+- Emo Rap Fan
 - Learning
-- A Man Who Is Still Climbing
+- Still Climbing
 - Understanding The World
 ### 💡 Languages And Tools
 
@@ -18,5 +19,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
+- NodeJs Pytorch Java
+- Try Full-Stack
 
